@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: ethereum
+    tables:
+      - name: blocks
+      - name: transactions
+      - name: logs
+      - name: traces
